@@ -1,10 +1,10 @@
-# mypipe
+# My Pipe
 
-Usage:
+**Usage**
 
-> Following CLI are here to try to fix a problem with WSL error permission.
+> Following CLI are here to try to **fix a problem with WSL error permission.**
 
-> However, errors could be encountered...
+> However, **errors** could be **encountered...**
 
 ```shell
 sudo cargo build --target-dir mypype_test
@@ -14,7 +14,8 @@ sudo cargo build --target-dir mypype_test
 . /mypype_test/debug/inandout --in fortune --out cowsay
 ```
 
-> Also, you could try to enter the classique command in your prefered terminal
+> Also, you **could try** to enter the classique command in your prefered terminal.
+
 ```shell
 $ mypipe --in fortune --out cowsay
 ```

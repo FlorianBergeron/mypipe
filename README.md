@@ -1,5 +1,14 @@
 # mypipe
 
+Usage:
+```shell
+sudo cargo build --target-dir mypype_test
+```
+
+```shell
+. /mypype_test/debug/inandout --in fortune --out cowsay
+```
+
 You have to recode a small pipe-like program, working like this:
 
 ```shell
